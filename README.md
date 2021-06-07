@@ -70,6 +70,13 @@ Search
 
 [How To Use](https://youtu.be/UyIPcS3bm0g)
 
+## Developer
+
+[[FrontEnd](https://github.com/svclaw2000/home-doctor/tree/master/Zipssa)] 박규훤 (svclaw2000@gmail.com)  
+[[BackEnd](https://github.com/svclaw2000/home-doctor/tree/master/medicine)] 홍나단 (skeks463@gmail.com)  
+[Data] 박성아 (a01056199295@gmail.com)  
+[Design] 권민지 (ongskongs@naver.com), 현지혜 (hgh2005@naver.com)  
+
 ### Contact
 
 ---
